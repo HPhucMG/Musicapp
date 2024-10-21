@@ -4,7 +4,7 @@ import 'package:musicapp/core/configs/theme/app_colors.dart';
 class AppTheme {
   static final lightTheme = ThemeData(
       primaryColor: AppColors.primary,
-      scaffoldBackgroundColor: AppColors.lightBackground,
+      // scaffoldBackgroundColor: AppColors
       brightness: Brightness.light,
       fontFamily: 'Satoshi',
       elevatedButtonTheme: ElevatedButtonThemeData(
