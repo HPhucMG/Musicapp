@@ -36,6 +36,9 @@ dependencies:
   firebase_core: ^1.16.0
   cupertino_icons: ^1.0.2
   flutter_svg:
+  flutter_bloc:
+  hydrated_bloc:
+  path_provider:
 
 dev_dependencies:
   flutter_test:
