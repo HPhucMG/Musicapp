@@ -2,8 +2,6 @@
 // ignore_for_file: type=lint
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/foundation.dart';
-import 'firebase_options.dart';
-import 'package:musicapp/main.dart';
 
 /// Default [FirebaseOptions] for use with your Firebase apps.
 ///
@@ -73,5 +71,4 @@ class DefaultFirebaseOptions {
     storageBucket: 'musicapp-d06cb.appspot.com',
     iosBundleId: 'com.example.musicapp',
   );
-
 }
