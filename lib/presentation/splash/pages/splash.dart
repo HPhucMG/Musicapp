@@ -3,8 +3,8 @@ import 'dart:ffi';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:musicapp/core/configs/assets/app_vectors.dart';
-import 'package:musicapp/presentation/intro/pages/get_started.dart';
+import 'package:music_app/core/configs/assets/app_vectors.dart';
+import 'package:music_app/presentation/intro/pages/get_started.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});
