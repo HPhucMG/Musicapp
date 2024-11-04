@@ -19,7 +19,7 @@ publish_to: "none" # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.19.6 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -38,12 +38,11 @@ dependencies:
   flutter_svg:
   flutter_bloc:
   hydrated_bloc:
-  firebase_auth: ^5.6.0
-  cloud_firestore: ^5.4.0
-  path_provider: ^2.8.2
+  firebase_auth: 
+  cloud_firestore: 
+  path_provider: 
   get_it:
   dartz:
-  cloud_firestore:
   just_audio:
 
 dev_dependencies:
